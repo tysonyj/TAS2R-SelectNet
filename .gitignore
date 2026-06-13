@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.DS_Store
+# Large generated embeddings (regenerate with src/compute_embeddings.py)
+emb_*.npy
+tas2r_pocket_embeddings_*.npy
+morgan_fingerprints_*.npy
+*.pt
+*.ckpt

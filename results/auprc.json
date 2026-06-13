@@ -1,0 +1,44 @@
+{
+  "TAS2R14": {
+    "auc": 0.841,
+    "auprc": 0.913,
+    "prevalence": 0.691,
+    "npos": 56
+  },
+  "TAS2R39": {
+    "auc": 0.899,
+    "auprc": 0.9,
+    "prevalence": 0.432,
+    "npos": 35
+  },
+  "TAS2R46": {
+    "auc": 0.76,
+    "auprc": 0.622,
+    "prevalence": 0.148,
+    "npos": 12
+  },
+  "TAS2R1": {
+    "auc": 0.919,
+    "auprc": 0.273,
+    "prevalence": 0.049,
+    "npos": 4
+  },
+  "TAS2R4": {
+    "auc": 0.529,
+    "auprc": 0.27,
+    "prevalence": 0.086,
+    "npos": 7
+  },
+  "TAS2R10": {
+    "auc": 0.671,
+    "auprc": 0.353,
+    "prevalence": 0.074,
+    "npos": 6
+  },
+  "_mean": {
+    "auc": 0.77,
+    "auprc": 0.555,
+    "prevalence": 0.247,
+    "auprc_lift_over_prevalence": 2.2
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "best_macro_auc": 0.628,
+  "broad_n6": {
+    "onehot_scaffold": 0.727,
+    "onehot_random": 0.853,
+    "selectnet": 0.768,
+    "delta": 0.041
+  },
+  "broad_npos5": {
+    "onehot_scaffold": 0.742,
+    "selectnet": 0.775
+  },
+  "med": {
+    "onehot_scaffold": 0.84,
+    "selectnet": 0.508
+  },
+  "per_subtype_selectnet": {
+    "TAS2R1": {
+      "auc": 0.731,
+      "npos": 4
+    },
+    "TAS2R2": {
+      "auc": 0.75,
+      "npos": 1
+    },
+    "TAS2R3": {
+      "auc": null,
+      "npos": 0
+    },
+    "TAS2R4": {
+      "auc": 0.701,
+      "npos": 7
+    },
+    "TAS2R5": {
+      "auc": null,
+      "npos": 0
+    },
+    "TAS2R7": {
+      "auc": 0.427,
+      "npos": 3
+    },
+    "TAS2R8": {
+      "auc": null,
+      "npos": 0
+    },
+    "TAS2R9": {
+      "auc": null,
+      "npos": 0
+    },
+    "TAS2R10": {
+      "auc": 0.716,
+      "npos": 6
+    },
+    "TAS2R13": {
+      "auc": null,
+      "npos": 0
+    },
+    "TAS2R14": {
+      "auc": 0.766,
+      "npos": 56
+    },
+    "TAS2R16": {
+      "auc": 0.985,
+      "npos": 7
+    },
+    "TAS2R38": {
+      "auc": 0.62,
+      "npos": 2
+    },
+    "TAS2R39": {
+      "auc": 0.897,
+      "npos": 35
+    },
+    "TAS2R40": {
+      "auc": 0.342,
+      "npos": 3
+    },
+    "TAS2R41": {
+      "auc": 0.399,
+      "npos": 2
+    },
+    "TAS2R42": {
+      "auc": null,
+      "npos": 0
+    },
+    "TAS2R43": {
+      "auc": 0.338,
+      "npos": 3
+    },
+    "TAS2R44": {
+      "auc": 0.177,
+      "npos": 2
+    },
+    "TAS2R46": {
+      "auc": 0.795,
+      "npos": 12
+    },
+    "TAS2R47": {
+      "auc": 0.772,
+      "npos": 2
+    },
+    "TAS2R49": {
+      "auc": null,
+      "npos": 0
+    },
+    "TAS2R50": {
+      "auc": null,
+      "npos": 0
+    }
+  },
+  "per_subtype_onehot_scaffold": {
+    "TAS2R1": 0.768,
+    "TAS2R2": 0.679,
+    "TAS2R4": 0.653,
+    "TAS2R5": 0.957,
+    "TAS2R7": 0.917,
+    "TAS2R8": 0.654,
+    "TAS2R10": 0.64,
+    "TAS2R13": 0.924,
+    "TAS2R14": 0.705,
+    "TAS2R16": 0.964,
+    "TAS2R38": 1.0,
+    "TAS2R39": 0.695,
+    "TAS2R40": 0.915,
+    "TAS2R43": 0.925,
+    "TAS2R44": 0.552,
+    "TAS2R46": 0.903,
+    "TAS2R47": 0.675
+  },
+  "per_subtype_onehot_random": {
+    "TAS2R1": 0.884,
+    "TAS2R2": 0.412,
+    "TAS2R4": 0.753,
+    "TAS2R5": 0.944,
+    "TAS2R7": 0.86,
+    "TAS2R8": 0.807,
+    "TAS2R10": 0.786,
+    "TAS2R13": 0.951,
+    "TAS2R14": 0.893,
+    "TAS2R16": 0.924,
+    "TAS2R38": 0.822,
+    "TAS2R39": 0.905,
+    "TAS2R40": 0.697,
+    "TAS2R41": 0.62,
+    "TAS2R43": 0.717,
+    "TAS2R44": 0.673,
+    "TAS2R46": 0.898,
+    "TAS2R47": 0.73,
+    "TAS2R49": 0.658
+  },
+  "candidates": {
+    "total": 375,
+    "n_subtypes": 15,
+    "per_subtype": {
+      "TAS2R14": 218,
+      "TAS2R46": 37,
+      "TAS2R16": 25,
+      "TAS2R5": 24,
+      "TAS2R38": 15,
+      "TAS2R1": 11,
+      "TAS2R39": 11,
+      "TAS2R4": 8,
+      "TAS2R7": 6,
+      "TAS2R10": 5,
+      "TAS2R2": 4,
+      "TAS2R8": 4,
+      "TAS2R9": 3,
+      "TAS2R13": 2,
+      "TAS2R49": 2
+    }
+  }
+}
