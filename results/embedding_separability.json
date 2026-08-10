@@ -1,0 +1,21 @@
+{
+  "pocket": {
+    "n_pairs": 253,
+    "cosine_mean": 1.0324,
+    "cosine_median": 1.0664,
+    "cosine_cv": 0.2918,
+    "euclidean_mean": 49.2704,
+    "euclidean_cv": 0.3201
+  },
+  "full_sequence": {
+    "n_pairs": 253,
+    "cosine_mean": 1.0372,
+    "cosine_median": 1.0949,
+    "cosine_cv": 0.3283,
+    "euclidean_mean": 35.6392,
+    "euclidean_cv": 0.2314
+  },
+  "pocket_minus_full_cosine_mean": -0.0048,
+  "wilcoxon_p_pocket_vs_full_cosine": 0.9333,
+  "note": "Pocket embeddings are NOT systematically more separable than full-sequence embeddings if pocket_minus_full is near zero / negative and the CV is not lower. A lower CV would indicate a more one-hot-like (uniform-distance) representation."
+}

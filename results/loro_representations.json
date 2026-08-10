@@ -1,0 +1,232 @@
+{
+  "per_receptor": {
+    "TAS2R1": {
+      "auc_pocket": 0.779,
+      "npos": 82,
+      "auc_random_nonpocket": 0.754,
+      "auc_fullseq": 0.726,
+      "auc_nn_onehot": 0.724,
+      "nn_receptor": "TAS2R3",
+      "nn_identity": 0.346
+    },
+    "TAS2R2": {
+      "auc_pocket": 0.422,
+      "npos": 8,
+      "auc_random_nonpocket": 0.541,
+      "auc_fullseq": 0.585,
+      "auc_nn_onehot": 0.597,
+      "nn_receptor": "TAS2R10",
+      "nn_identity": 0.347
+    },
+    "TAS2R3": {
+      "auc_pocket": 0.989,
+      "npos": 2,
+      "auc_random_nonpocket": 0.78,
+      "auc_fullseq": 0.966,
+      "auc_nn_onehot": 0.925,
+      "nn_receptor": "TAS2R7",
+      "nn_identity": 0.427
+    },
+    "TAS2R4": {
+      "auc_pocket": 0.703,
+      "npos": 59,
+      "auc_random_nonpocket": 0.751,
+      "auc_fullseq": 0.604,
+      "auc_nn_onehot": 0.734,
+      "nn_receptor": "TAS2R7",
+      "nn_identity": 0.342
+    },
+    "TAS2R5": {
+      "auc_pocket": 0.587,
+      "npos": 35,
+      "auc_random_nonpocket": 0.557,
+      "auc_fullseq": 0.615,
+      "auc_nn_onehot": 0.593,
+      "nn_receptor": "TAS2R13",
+      "nn_identity": 0.329
+    },
+    "TAS2R7": {
+      "auc_pocket": 0.558,
+      "npos": 34,
+      "auc_random_nonpocket": 0.556,
+      "auc_fullseq": 0.428,
+      "auc_nn_onehot": 0.528,
+      "nn_receptor": "TAS2R9",
+      "nn_identity": 0.475
+    },
+    "TAS2R8": {
+      "auc_pocket": 0.71,
+      "npos": 18,
+      "auc_random_nonpocket": 0.535,
+      "auc_fullseq": 0.661,
+      "auc_nn_onehot": 0.588,
+      "nn_receptor": "TAS2R9",
+      "nn_identity": 0.472
+    },
+    "TAS2R9": {
+      "auc_pocket": 0.431,
+      "npos": 3,
+      "auc_random_nonpocket": 0.392,
+      "auc_fullseq": 0.513,
+      "auc_nn_onehot": 0.497,
+      "nn_receptor": "TAS2R7",
+      "nn_identity": 0.475
+    },
+    "TAS2R10": {
+      "auc_pocket": 0.75,
+      "npos": 54,
+      "auc_random_nonpocket": 0.783,
+      "auc_fullseq": 0.751,
+      "auc_nn_onehot": 0.707,
+      "nn_receptor": "TAS2R7",
+      "nn_identity": 0.412
+    },
+    "TAS2R13": {
+      "auc_pocket": 0.712,
+      "npos": 7,
+      "auc_random_nonpocket": 0.708,
+      "auc_fullseq": 0.64,
+      "auc_nn_onehot": 0.311,
+      "nn_receptor": "TAS2R14",
+      "nn_identity": 0.476
+    },
+    "TAS2R14": {
+      "auc_pocket": 0.32,
+      "npos": 385,
+      "auc_random_nonpocket": 0.323,
+      "auc_fullseq": 0.39,
+      "auc_nn_onehot": 0.389,
+      "nn_receptor": "TAS2R13",
+      "nn_identity": 0.476
+    },
+    "TAS2R16": {
+      "auc_pocket": 0.56,
+      "npos": 34,
+      "auc_random_nonpocket": 0.541,
+      "auc_fullseq": 0.537,
+      "auc_nn_onehot": 0.559,
+      "nn_receptor": "TAS2R41",
+      "nn_identity": 0.351
+    },
+    "TAS2R38": {
+      "auc_pocket": 0.428,
+      "npos": 37,
+      "auc_random_nonpocket": 0.404,
+      "auc_fullseq": 0.542,
+      "auc_nn_onehot": 0.409,
+      "nn_receptor": "TAS2R3",
+      "nn_identity": 0.317
+    },
+    "TAS2R39": {
+      "auc_pocket": 0.597,
+      "npos": 122,
+      "auc_random_nonpocket": 0.632,
+      "auc_fullseq": 0.57,
+      "auc_nn_onehot": 0.643,
+      "nn_receptor": "TAS2R40",
+      "nn_identity": 0.546
+    },
+    "TAS2R40": {
+      "auc_pocket": 0.782,
+      "npos": 19,
+      "auc_random_nonpocket": 0.809,
+      "auc_fullseq": 0.651,
+      "auc_nn_onehot": 0.766,
+      "nn_receptor": "TAS2R39",
+      "nn_identity": 0.546
+    },
+    "TAS2R41": {
+      "auc_pocket": 0.794,
+      "npos": 10,
+      "auc_random_nonpocket": 0.919,
+      "auc_fullseq": 0.829,
+      "auc_nn_onehot": 0.807,
+      "nn_receptor": "TAS2R16",
+      "nn_identity": 0.351
+    },
+    "TAS2R42": {
+      "auc_pocket": 0.984,
+      "npos": 1,
+      "auc_random_nonpocket": 0.927,
+      "auc_fullseq": 1.0,
+      "auc_nn_onehot": 0.753,
+      "nn_receptor": "TAS2R7",
+      "nn_identity": 0.399
+    },
+    "TAS2R43": {
+      "auc_pocket": 0.758,
+      "npos": 41,
+      "auc_random_nonpocket": 0.736,
+      "auc_fullseq": 0.857,
+      "auc_nn_onehot": 0.741,
+      "nn_receptor": "TAS2R44",
+      "nn_identity": 0.893
+    },
+    "TAS2R44": {
+      "auc_pocket": 0.886,
+      "npos": 14,
+      "auc_random_nonpocket": 0.834,
+      "auc_fullseq": 0.869,
+      "auc_nn_onehot": 0.908,
+      "nn_receptor": "TAS2R43",
+      "nn_identity": 0.893
+    },
+    "TAS2R46": {
+      "auc_pocket": 0.713,
+      "npos": 113,
+      "auc_random_nonpocket": 0.531,
+      "auc_fullseq": 0.771,
+      "auc_nn_onehot": 0.74,
+      "nn_receptor": "TAS2R43",
+      "nn_identity": 0.874
+    },
+    "TAS2R47": {
+      "auc_pocket": 0.766,
+      "npos": 22,
+      "auc_random_nonpocket": 0.824,
+      "auc_fullseq": 0.758,
+      "auc_nn_onehot": 0.786,
+      "nn_receptor": "TAS2R46",
+      "nn_identity": 0.821
+    },
+    "TAS2R49": {
+      "auc_pocket": 0.679,
+      "npos": 10,
+      "auc_random_nonpocket": 0.695,
+      "auc_fullseq": 0.626,
+      "auc_nn_onehot": 0.66,
+      "nn_receptor": "TAS2R46",
+      "nn_identity": 0.693
+    },
+    "TAS2R50": {
+      "auc_pocket": 0.923,
+      "npos": 4,
+      "auc_random_nonpocket": 0.449,
+      "auc_fullseq": 0.962,
+      "auc_nn_onehot": 0.904,
+      "nn_receptor": "TAS2R46",
+      "nn_identity": 0.68
+    }
+  },
+  "summary": {
+    "n_evaluable": 23,
+    "mean_pocket": 0.688,
+    "mean_random_nonpocket": 0.651,
+    "mean_fullseq": 0.689,
+    "mean_nn_onehot": 0.664,
+    "distant_nn_lt0.5": {
+      "n": 15,
+      "pocket": 0.648,
+      "random_nonpocket": 0.631,
+      "fullseq": 0.652,
+      "nn_onehot": 0.608
+    },
+    "close_nn_ge0.5": {
+      "n": 8,
+      "pocket": 0.763,
+      "random_nonpocket": 0.689,
+      "fullseq": 0.758,
+      "nn_onehot": 0.768
+    }
+  }
+}
