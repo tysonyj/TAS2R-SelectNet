@@ -7,3 +7,4 @@ tas2r_pocket_embeddings_*.npy
 morgan_fingerprints_*.npy
 *.pt
 *.ckpt
+!selectnet_production.pt
