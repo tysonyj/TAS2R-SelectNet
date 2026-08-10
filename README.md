@@ -105,3 +105,11 @@ If you use this code or data, please cite the manuscript (citation to be added u
 ## License
 
 MIT (see `LICENSE`). BitterDB data are redistributed under their original terms; please also cite BitterDB 2024.
+
+## Revision experiments
+
+Controls run during peer review, including the matched-dimensionality ablation
+that reversed our conclusion about pocket-restricted embeddings, are documented
+in [REVISION2_EXPERIMENTS.md](REVISION2_EXPERIMENTS.md). The released checkpoint
+`selectnet_production.pt` reproduces the prediction table in
+`results/TAS2R_SelectNet_predictions_645x23.csv`.
